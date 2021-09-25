@@ -2,3 +2,23 @@
   padding: 0;
   margin: 0;
 }
+
+body {
+  background: lightblue;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 130px;
+  padding: 10px;
+}
+
+.llocs {
+  height: 180px;
+  width: 500px;
+}
+
+p {
+  padding: 20px;
+}
